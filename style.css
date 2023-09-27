@@ -1,0 +1,181 @@
+@import url(<link href="https://fonts.cdnfonts.com/css/times-new-roman" rel="stylesheet">);
+
+
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+
+#main{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #121921;
+  color: white;
+}
+#hello{
+  color: white;
+  margin-left: 10px;
+}
+input{
+  border-radius: 5px;
+  width: 400px;
+}
+#second{
+  display: flex;
+  justify-content: space-evenly;
+  background-color: #243040;
+  color: white;
+}
+#one,#two,#three,#four,#five,#six,#seven,#eight,#nine,#ten{
+  color: white;
+}
+#bg{
+  border-image: fill;
+  position: relative;
+}
+#matter{
+  position: absolute;
+}
+#h3{
+  margin-top: -400px;
+}
+#box1{
+  border: 1px solid ;
+  margin:1px solid black;
+  box-sizing: 50px;
+  background: white;
+  margin-top: 50px;
+  padding: 20px;
+  height: 400px;
+  font-weight: 800;
+}
+#section{
+  flex-wrap: wrap;
+  margin: 20vh auto;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+#section2{
+  flex-wrap: wrap;
+  margin: 10vh auto;
+  display: flex;
+
+}
+#box2{
+  margin:1px solid black;
+  border: 1px solid black;
+  box-sizing: 50px;
+  font-weight: 800;
+}
+#uy,#ry{
+  font-size: 20px;
+}
+#section3{
+  flex-wrap: wrap;
+  margin: 10vh auto;
+  display: flex;
+
+}
+#box3{
+  margin:1px solid black;
+  border: 1px solid black;
+  box-sizing: 50px;
+  font-weight: 800;
+}
+#cs{
+  font-size: 20px;
+}
+#section4{
+  flex-wrap: wrap;
+  margin: 10vh auto;
+  display: flex;
+}
+#box4{
+  margin:1px solid black;
+  border: 1px solid black;
+  box-sizing: 50px;
+  font-weight: 800;
+}
+body{
+  background-image: url(https://github.com/Kalvium-Program/amazon-clone-boilerplate/blob/main/assets/background%20picture.png?raw=true);
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+#tt{
+  display: flex;
+}
+#nt{
+  display: flex;
+}
+#main1{
+  display: flex;
+}
+#rev{
+  display: flex;
+}
+#mu{
+  display: flex;
+}
+#box2{
+  border: 1px solid ;
+  margin:1px solid black;
+  box-sizing: 30px;
+  background: white;
+  margin-top: 125px;
+  height: 400px;
+  width: 400px;
+  margin-left: 10px;
+}
+#bar{
+  width: 500px;
+  padding: 10px;
+  margin-top: 10px;
+}
+#india{
+  margin-top: 20px;
+}
+#si{
+  margin-top: 18px;
+}
+#r{
+  margin-top: 18px;
+}
+#second{
+  padding: 10px;
+}
+#box3{
+  border: 1px solid ;
+  margin:1px solid black;
+  box-sizing: 30px;
+  background: white;
+  margin-top: 125px;
+  height: 400px;
+  width: 400px;
+  margin-left: 10px;
+}
+#ry{
+  padding: 10px;
+  align-content: center;
+}
+#box4{
+  border: 1px solid ;
+  margin:1px solid black;
+  background-color: white ;
+  margin-top: 125px;
+  height: 100px;
+}
+#exp{
+  font-size: 30px;
+  align-content: center;
+  padding: 10px;
+}
+#sign{
+  background-color: #FED813;
+  color: white;
+  align-items: center;
+  height: 30px;
+  justify-content: center;
+}
